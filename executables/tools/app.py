@@ -6,7 +6,6 @@ import os
 
 app = Flask(__name__)
 
-# Define the schema globally
 schema = {
     "type": "object",
     "properties": {
